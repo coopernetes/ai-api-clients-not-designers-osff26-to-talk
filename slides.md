@@ -8,6 +8,9 @@ class: text-center
 transition: slide-left
 mdc: true
 duration: 15min
+download: true
+addons:
+  - slidev-component-scroll
 ---
 
 # AI is your API's client, not its designer
